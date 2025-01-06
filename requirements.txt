@@ -1,4 +1,4 @@
-streamlit==1.24.1
+streamlit==1.27.0
 openai
 langchain
 langchain-llm
@@ -8,3 +8,5 @@ gensim
 faiss-cpu
 sentence-transformers
 pyPDF2
+pillow==9.2.0
+transformers_stream_generator==0.0.5
