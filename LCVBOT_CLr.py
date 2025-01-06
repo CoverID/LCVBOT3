@@ -129,7 +129,7 @@ def setup_conversation(llm, vector_store):
 def main():
     initialize_session_state()
     
-    st.title("🤖 LCV Assistant")
+    st.title("🤖 LCV ASSISTANT")
     st.markdown(
         """
         <div style='background-color: #f0f2f6; padding: 1rem; border-radius: 0.5rem;'>
