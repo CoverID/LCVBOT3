@@ -44,7 +44,7 @@ def setup_openai():
     try:
         openai_api_key = st.secrets["OPENAI_API_KEY"]
         llm = ChatOpenAI(
-            temperature=0.7,
+            temperature=0.27,
             model_name="gpt-4o-mini",  # Model dengan kemampuan bahasa Indonesia yang baik
             openai_api_key=openai_api_key,
         )
