@@ -80,7 +80,7 @@ def process_documents_from_folder():
         # Text splitter
         text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=1000,
-            chunk_overlap=126
+            chunk_overlap=153
         )
         splits = text_splitter.split_documents(documents)
 
