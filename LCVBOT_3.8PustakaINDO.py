@@ -82,7 +82,9 @@ def preprocess_document(text: str) -> str:
         'krn': 'karena',
         'pd': 'pada',
         'dr': 'dari',
-        'knp': 'kenapa'
+        'knp': 'kenapa',
+        'LCV': "Living Core Values',
+        'PCB': 'Project Charter Budaya'
     }
 
     for abbr, full in abbreviations.items():
