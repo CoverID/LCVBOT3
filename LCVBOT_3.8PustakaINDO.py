@@ -83,7 +83,7 @@ def preprocess_document(text: str) -> str:
         'pd': 'pada',
         'dr': 'dari',
         'knp': 'kenapa',
-        'LCV': "Living Core Values',
+        'LCV': 'Living Core Values',
         'PCB': 'Project Charter Budaya'
     }
 
