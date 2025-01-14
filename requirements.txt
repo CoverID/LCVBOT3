@@ -1,5 +1,4 @@
 openAI
-streamlit
 langchain>=0.0.320
 langchain-community>=0.2.2
 langchain-huggingface>=0.1.2
@@ -10,3 +9,4 @@ torch>=2.0.0
 faiss-cpu>=1.7.4
 pypdf
 toml>=0.10.2
+streamlit==1.26.0
