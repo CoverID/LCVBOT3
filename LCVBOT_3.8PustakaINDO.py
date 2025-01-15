@@ -140,7 +140,7 @@ PUSTAKA_DATA = {
         },
         {
             "title": "Konfirmasi Evidence",
-            "description": "Form Konfirmasi Evidence LCV 2025",
+            "description": "Form Konfirmasi Evidence LCV 2025 dibuka setiap tanggal 26-27",
             "url": "https://ptm.id/FormKonfirmasiEvidenceLCV2025"
         }
     ]
