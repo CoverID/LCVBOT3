@@ -334,7 +334,7 @@ st.markdown("""
 **Disclaimer:**
 - Sistem ini menggunakan AI-LLM dan dapat menghasilkan jawaban yang tidak selalu akurat
 - Untuk mengurangi halusinasi dan meningkatkan akurasi, gunakanlah sistem prompt R-A-G :
-  [Role] Anda adalah seorang ahli Living Core Values AKHLAK yang kreatif
+  [Role] Anda adalah seorang ahli Living Core Values AKHLAK yang kreatif.
   [Action] Tolong berikan 3 buah ide  program ONE KOLAB yang strategis,
   [Goals] dengan tujuan menciptakan safety dan produktivitas yang lebih baik.
 - Mohon verifikasi informasi penting dengan sumber terpercaya
