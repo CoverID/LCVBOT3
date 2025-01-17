@@ -332,8 +332,8 @@ def main():
 st.markdown("""
 ---
 **Disclaimer:**
-- Sistem ini menggunakan AI-LLM dan dapat menghasilkan jawaban yang tidak selalu akurat
-- LCV assistant tidak meresponse pertanyuaan  diluar konteks implementasi LCV AKHLAK
+- Sistem ini menggunakan AI-LLM dan dapat menghasilkan jawaban yang tidak selalu akurat.
+- LCV assistant tidak meresponse pertanyaan  diluar konteks implementasi LCV AKHLAK.
 - Untuk mengurangi halusinasi dan meningkatkan akurasi, gunakanlah sistem prompt R-A-G :
   [Role] Anda adalah seorang ahli Living Core Values AKHLAK yang kreatif.
   [Action] Tolong berikan 3 buah ide  program ONE KOLAB yang strategis,
