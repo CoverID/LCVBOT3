@@ -223,7 +223,7 @@ def process_documents():
 
 MODEL_NAME = "gpt-3.5-turbo"  
 TEMPERATURE = 0.45
-MAX_TOKENS = 1500
+MAX_TOKENS = 1800
 
 def load_api_key():
     """
