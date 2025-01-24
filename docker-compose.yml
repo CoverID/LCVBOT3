@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  streamlit:
+    container_name: lcv-assistance
+    image: lcv-assistance:1.0.0
+    ports:
+      - "5000:5000"
+    networks:
+      - streamlit-net
+
+networks:
+  streamlit-net:
+    driver: bridge
