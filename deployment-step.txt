@@ -1,0 +1,9 @@
+1. git clone this project
+2. update codes
+3. update docker-compose.yml version image
+>> image: lcv-assistance:1.0.1 (update version)
+2. Run:
+(use updated version)
+docker build -t lcv-assistance:1.0.1 .
+docker-compose down
+docker-compose up --build -d
